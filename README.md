@@ -7,6 +7,7 @@ This repo contains my attempt at the assignments of the course "EEE F435 - Digit
 2. Convert an image inro binary by varying the threshold.
 3. Convert two images into binary and perform logical operations. Take two matrices and perform arthmatic operations. Generate two binary images and perform logical operations to get a meaningful image.
 4. Perform intensity slicing and recombination
+5. Obtain Histogram of a given image, perform histogram equalization, and histogram matching with a reference image.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
