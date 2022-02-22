@@ -12,15 +12,6 @@ This repo contains my attempt at the assignments of the course "EEE F435 - Digit
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-
-## License
-[MIT](https://github.com/AmiteshBadkul/digital-image-processing/blob/master/LICENSE)
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 <!-- CONTACT -->
 ## Contact
 
