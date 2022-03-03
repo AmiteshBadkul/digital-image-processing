@@ -8,6 +8,8 @@ This repo contains my attempt at the assignments of the course "EEE F435 - Digit
 3. Convert two images into binary and perform logical operations. Take two matrices and perform arthmatic operations. Generate two binary images and perform logical operations to get a meaningful image.
 4. Perform intensity slicing and recombination
 5. Obtain Histogram of a given image, perform histogram equalization, and histogram matching with a reference image.
+6. Perform local histogram processing, obtain the mean and variance of image from histogram and from image.
+7. Perform convolution, correlation for signals.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
